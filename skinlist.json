@@ -552,7 +552,7 @@
         },
         {
           "id": "1108",
-          "name": " [ex][DNT]",
+          "name": " Tử Điệp",
           "changedLabel": true,
           "haveAction": false,
           "changeAnim": false,
@@ -918,7 +918,7 @@
         },
         {
           "id": "1135",
-          "name": " [ex][DNT]",
+          "name": " Quân cảnh",
           "changedLabel": true,
           "haveAction": false,
           "changeAnim": false,
@@ -1410,7 +1410,7 @@
         },
         {
           "id": "1196",
-          "name": " [ex][DNT]",
+          "name": " Vu độc ma nhân",
           "changedLabel": true,
           "haveAction": true,
           "changeAnim": false,
@@ -2406,7 +2406,7 @@
         },
         {
           "id": "13116",
-          "name": " [ex]",
+          "name": " Hỏa ngục huyết tướng",
           "changedLabel": true,
           "haveAction": true,
           "changeAnim": false,
@@ -2741,6 +2741,18 @@
           "removeIdleShow": false
         },
         {
+          "id": "1353",
+          "name": " Hiệp sĩ hoàng kim",
+          "changedLabel": false,
+          "haveAction": false,
+          "changeAnim": false,
+          "haveBack": false,
+          "haveHaste": false,
+          "haveSound": false,
+          "haveComponent": false,
+          "removeIdleShow": false
+        },
+        {
           "id": "1354",
           "name": " Quang vinh",
           "changedLabel": true,
@@ -2856,7 +2868,7 @@
         },
         {
           "id": "1368",
-          "name": " [ex][DNT]",
+          "name": " Ngược dòng thời gian",
           "changedLabel": true,
           "haveAction": false,
           "changeAnim": false,
@@ -3113,7 +3125,7 @@
           "haveAction": true,
           "changeAnim": false,
           "haveBack": true,
-          "haveHaste": true,
+          "haveHaste": false,
           "haveSound": true,
           "haveComponent": false,
           "removeIdleShow": false
@@ -3480,7 +3492,7 @@
         },
         {
           "id": "1485",
-          "name": " [ex][DNT]",
+          "name": " Huyết long",
           "changedLabel": true,
           "haveAction": false,
           "changeAnim": false,
@@ -3689,7 +3701,7 @@
           "haveAction": true,
           "changeAnim": false,
           "haveBack": true,
-          "haveHaste": true,
+          "haveHaste": false,
           "haveSound": true,
           "haveComponent": false,
           "removeIdleShow": false
@@ -4116,7 +4128,7 @@
         },
         {
           "id": "15611",
-          "name": " [ex]",
+          "name": " Mật vụ thần thám",
           "changedLabel": true,
           "haveAction": true,
           "changeAnim": false,
@@ -4217,13 +4229,25 @@
           "removeIdleShow": false
         },
         {
+          "id": "15710",
+          "name": " MC võ đài",
+          "changedLabel": false,
+          "haveAction": false,
+          "changeAnim": false,
+          "haveBack": false,
+          "haveHaste": false,
+          "haveSound": false,
+          "haveComponent": false,
+          "removeIdleShow": false
+        },
+        {
           "id": "15711",
           "name": " Bão vũ Cuồng lôi",
           "changedLabel": true,
           "haveAction": true,
           "changeAnim": false,
           "haveBack": true,
-          "haveHaste": true,
+          "haveHaste": false,
           "haveSound": true,
           "haveComponent": false,
           "removeIdleShow": false
@@ -4284,7 +4308,7 @@
         },
         {
           "id": "1626",
-          "name": " [ex][DNT]",
+          "name": " Tử trùng DDos",
           "changedLabel": true,
           "haveAction": true,
           "changeAnim": false,
@@ -4398,7 +4422,7 @@
         },
         {
           "id": "16310",
-          "name": " [ex][DNT]",
+          "name": " Khiêu chiến",
           "changedLabel": true,
           "haveAction": true,
           "changeAnim": false,
@@ -4662,7 +4686,7 @@
         },
         {
           "id": "16712",
-          "name": " [ex]未命名",
+          "name": " Thần Giáp Xích Diễm",
           "changedLabel": true,
           "haveAction": true,
           "changeAnim": false,
@@ -4678,6 +4702,18 @@
       "id": "168",
       "name": " Lumburr",
       "skins": [
+        {
+          "id": "1682",
+          "name": " Dung nham",
+          "changedLabel": false,
+          "haveAction": false,
+          "changeAnim": false,
+          "haveBack": false,
+          "haveHaste": false,
+          "haveSound": false,
+          "haveComponent": false,
+          "removeIdleShow": false
+        },
         {
           "id": "1683",
           "name": " Dung nham",
@@ -5226,7 +5262,7 @@
         },
         {
           "id": "1779",
-          "name": " [ex][DNT]",
+          "name": " Đặc vụ thần thám",
           "changedLabel": true,
           "haveAction": true,
           "changeAnim": false,
@@ -5332,6 +5368,18 @@
       "id": "184",
       "name": " Helen",
       "skins": [
+        {
+          "id": "1843",
+          "name": " Nghìn lẻ một đêm",
+          "changedLabel": false,
+          "haveAction": false,
+          "changeAnim": false,
+          "haveBack": false,
+          "haveHaste": false,
+          "haveSound": false,
+          "haveComponent": false,
+          "removeIdleShow": false
+        },
         {
           "id": "1844",
           "name": " Ngủ trong rừng",
@@ -6353,7 +6401,7 @@
         },
         {
           "id": "50118",
-          "name": " [ex]",
+          "name": " Thần Long tiểu muội",
           "changedLabel": true,
           "haveAction": true,
           "changeAnim": false,
@@ -7738,6 +7786,18 @@
           "removeIdleShow": false
         },
         {
+          "id": "5224",
+          "name": " Quái vật cương thi",
+          "changedLabel": false,
+          "haveAction": false,
+          "changeAnim": false,
+          "haveBack": false,
+          "haveHaste": false,
+          "haveSound": false,
+          "haveComponent": false,
+          "removeIdleShow": false
+        },
+        {
           "id": "5225",
           "name": " Genos",
           "changedLabel": true,
@@ -7931,7 +7991,7 @@
         },
         {
           "id": "5249",
-          "name": " [ex][DNT]",
+          "name": " Quân nhạc Mildar",
           "changedLabel": true,
           "haveAction": true,
           "changeAnim": false,
@@ -8070,6 +8130,18 @@
           "haveBack": false,
           "haveHaste": false,
           "haveSound": true,
+          "haveComponent": false,
+          "removeIdleShow": false
+        },
+        {
+          "id": "5267",
+          "name": " Lễ hội ma quái",
+          "changedLabel": false,
+          "haveAction": false,
+          "changeAnim": false,
+          "haveBack": false,
+          "haveHaste": false,
+          "haveSound": false,
           "haveComponent": false,
           "removeIdleShow": false
         },
@@ -9113,7 +9185,7 @@
         },
         {
           "id": "5435",
-          "name": " [ex][DNT]",
+          "name": " Thủy thủ",
           "changedLabel": true,
           "haveAction": false,
           "changeAnim": false,
@@ -9127,7 +9199,7 @@
     },
     {
       "id": "544",
-      "name": " [Thử nghiệm]Vulcan",
+      "name": " Yan",
       "skins": [
         {
           "id": "5442",
@@ -9155,7 +9227,7 @@
         },
         {
           "id": "5444",
-          "name": " [ex][DNT]",
+          "name": " Công tước Norman",
           "changedLabel": true,
           "haveAction": true,
           "changeAnim": false,
@@ -9229,7 +9301,7 @@
     },
     {
       "id": "548",
-      "name": " [ex]",
+      "name": " Bijan",
       "skins": [
         {
           "id": "5482",
@@ -9245,7 +9317,7 @@
         },
         {
           "id": "5483",
-          "name": " [ex]",
+          "name": " Hoàng Kim cơ giáp",
           "changedLabel": true,
           "haveAction": true,
           "changeAnim": false,
