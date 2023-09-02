@@ -2145,9 +2145,9 @@
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0,
           "filenameNotModCheckId": [
-            "/S1E1.xml",
-            "/S1E2.xml",
-            "/U1E2.xml"
+            "S1E1.xml",
+            "S1E2.xml",
+            "U1E2.xml"
           ]
         },
         {
@@ -3886,7 +3886,8 @@
           "isComponentSkin": false,
           "componentLevel": 0,
           "levelSFXUnlock": 0,
-          "levelVOXUnlock": 0
+          "levelVOXUnlock": 0,
+		  "specialBackAnim": "15004"
         },
         {
           "id": "1506",
@@ -6264,7 +6265,7 @@
         {
           "id": "1934",
           "name": "Thư ký",
-          "label": "SS",
+          "label": "S",
           "changeAnim": false,
           "hasDeathEffect": false,
           "isAwakeSkin": false,
