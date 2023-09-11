@@ -770,7 +770,11 @@
           "isComponentSkin": false,
           "componentLevel": 0,
           "levelSFXUnlock": 0,
-          "levelVOXUnlock": 0
+          "levelVOXUnlock": 0,
+          "filenameNotModCheckId": [
+            "s2.xml",
+            "u1.xml"
+          ]
         },
         {
           "id": "11115",
@@ -1075,6 +1079,18 @@
         {
           "id": "1155",
           "name": "Kim quang thánh đồ",
+          "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "1157",
+          "name": "Kim giác",
           "label": "A",
           "changeAnim": false,
           "hasDeathEffect": false,
@@ -1702,10 +1718,7 @@
           "isComponentSkin": false,
           "componentLevel": 0,
           "levelSFXUnlock": 0,
-          "levelVOXUnlock": 0,
-          "filenameNotMod": [
-            "death.xml"
-          ]
+          "levelVOXUnlock": 0
         },
         {
           "id": "1236",
@@ -1812,7 +1825,7 @@
         {
           "id": "1246",
           "name": "Thần mặt trời",
-          "label": "S_Plus",
+          "label": "S_HH",
           "changeAnim": false,
           "hasDeathEffect": false,
           "isAwakeSkin": false,
@@ -2529,6 +2542,18 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "13117",
+          "name": "Tuyệt thế thần binh",
+          "label": "SSS_HH",
+          "changeAnim": false,
+          "hasDeathEffect": true,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
     },
@@ -3061,7 +3086,10 @@
           "isComponentSkin": false,
           "componentLevel": 0,
           "levelSFXUnlock": 0,
-          "levelVOXUnlock": 0
+          "levelVOXUnlock": 0,
+          "filenameNotModCheckId": [
+            "u1b2.xml"
+          ]
         },
         {
           "id": "1369",
@@ -3677,6 +3705,18 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "14611",
+          "name": "Quái xế",
+          "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
     },
@@ -3887,7 +3927,7 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0,
-		  "specialBackAnim": "15004"
+          "specialBackAnim": "15004"
         },
         {
           "id": "1506",
@@ -4158,6 +4198,18 @@
           "id": "1536",
           "name": "Thiếu chủ bóng đêm",
           "label": "S",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "1535",
+          "name": "Chiến binh kim quang",
+          "label": "S_Plus",
           "changeAnim": false,
           "hasDeathEffect": false,
           "isAwakeSkin": false,
@@ -4532,7 +4584,7 @@
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0,
           "filenameNotModCheckId": [
-			"p1.xml"
+            "p1.xml"
           ]
         },
         {
@@ -4942,6 +4994,7 @@
           "componentLevel": 0,
           "levelSFXUnlock": 3,
           "levelVOXUnlock": 4,
+          "specialBackAnim": "16707",
           "filenameNotModCheckId": [
             "S1E5.xml",
             "U11E5.xml",
@@ -6111,6 +6164,18 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "19015",
+          "name": "Giám thị sấm sét",
+          "label": "S_Plus",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
     },
@@ -7111,7 +7176,8 @@
           "isComponentSkin": false,
           "componentLevel": 0,
           "levelSFXUnlock": 0,
-          "levelVOXUnlock": 0
+          "levelVOXUnlock": 0,
+          "specialBackAnim": "50604"
         },
         {
           "id": "5066",
@@ -7994,6 +8060,18 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "51910",
+          "name": "Tiên tri tập sự",
+          "label": "S_Plus",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
     },
@@ -8084,7 +8162,8 @@
           "componentEffectId": "5200402",
           "componentLevel": 3,
           "levelSFXUnlock": 0,
-          "levelVOXUnlock": 0
+          "levelVOXUnlock": 0,
+          "specialBackAnim": "52007"
         },
         {
           "id": "5209",
@@ -8755,6 +8834,18 @@
         {
           "id": "5278",
           "name": "Thủy liên hoa",
+          "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "5279",
+          "name": "Cô thủ thư",
           "label": "A",
           "changeAnim": false,
           "hasDeathEffect": false,
@@ -9540,6 +9631,18 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "5385",
+          "name": "Yêu nhân học viện",
+          "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
     },
@@ -9671,6 +9774,18 @@
           "id": "5412",
           "name": "Thỏ ma quái",
           "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "5413",
+          "name": "Cô bé sợ ma",
+          "label": "S_Plus",
           "changeAnim": false,
           "hasDeathEffect": false,
           "isAwakeSkin": false,
