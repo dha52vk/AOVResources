@@ -531,6 +531,18 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "10913",
+          "name": "A.I love you",
+          "label": "S_Plus",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
     },
@@ -1953,6 +1965,18 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "1276",
+          "name": "Quang vinh 2.0",
+          "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
     },
@@ -2351,6 +2375,18 @@
           "label": "S_Plus",
           "changeAnim": false,
           "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "13016",
+          "name": "Thứ nguyên Vệ thần",
+          "label": "SSS_HH",
+          "changeAnim": false,
+          "hasDeathEffect": true,
           "isAwakeSkin": false,
           "isComponentSkin": false,
           "componentLevel": 0,
@@ -4584,7 +4620,7 @@
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0,
           "filenameNotModCheckId": [
-            "p1.xml"
+            "//p1.xml"
           ]
         },
         {
@@ -5094,6 +5130,18 @@
         {
           "id": "1685",
           "name": "Máy đào khoáng",
+          "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "1686",
+          "name": "Vệ binh hỏa diệm",
           "label": "A",
           "changeAnim": false,
           "hasDeathEffect": false,
@@ -6378,6 +6426,18 @@
         {
           "id": "1938",
           "name": "Nữ đội trưởng",
+          "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "19311",
+          "name": "Khủng long xanh",
           "label": "A",
           "changeAnim": false,
           "hasDeathEffect": false,
@@ -7754,6 +7814,18 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "5149",
+          "name": "Hỏa thuật sư",
+          "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
     },
@@ -8152,8 +8224,21 @@
           "levelVOXUnlock": 0
         },
         {
+          "id": "520802",
+          "name": "Kimono Phụ Kiện Xanh",
+          "label": "SS",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": true,
+          "componentEffectId": "5200401",
+          "componentLevel": 3,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
           "id": "520803",
-          "name": "Kimono Phụ Kiện Đỏ",
+          "name": "Kimono Phụ Kiện Hồng",
           "label": "SS",
           "changeAnim": false,
           "hasDeathEffect": false,
@@ -8162,8 +8247,7 @@
           "componentEffectId": "5200402",
           "componentLevel": 3,
           "levelSFXUnlock": 0,
-          "levelVOXUnlock": 0,
-          "specialBackAnim": "52007"
+          "levelVOXUnlock": 0
         },
         {
           "id": "5209",
@@ -8998,6 +9082,18 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "5297",
+          "name": "Hắc kỵ thời không",
+          "label": "S_Plus",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
     },
@@ -9823,6 +9919,18 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "5424",
+          "name": "Xích long hỏa diệm",
+          "label": "S_Plus",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
     },
@@ -9858,6 +9966,18 @@
           "id": "5435",
           "name": "Thủy thủ",
           "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "5433",
+          "name": "Điệp viên ký ức",
+          "label": "S_Plus",
           "changeAnim": false,
           "hasDeathEffect": false,
           "isAwakeSkin": false,
@@ -9932,6 +10052,18 @@
         {
           "id": "5454",
           "name": "Chiêm tinh gia",
+          "label": "S_Plus",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "5455",
+          "name": "Vũ phiến hỏa diệm",
           "label": "S_Plus",
           "changeAnim": false,
           "hasDeathEffect": false,
