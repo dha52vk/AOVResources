@@ -55,7 +55,7 @@
         {
           "id": "1055",
           "name": "Ngưu hải vương",
-          "label": "S_Plus",
+          "label": "Y2024",
           "changeAnim": false,
           "hasDeathEffect": false,
           "isAwakeSkin": false,
@@ -859,6 +859,19 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "11120",
+          "name": "Vọng nguyệt Long cơ",
+          "label": "SS",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0,
+		  "filenameNotModCheckId":["a1b1.xml", "a2b1.xml", "a1b2.xml", "a2b2.xml", "a4b2.xml", "a4b1.xml"]
         }
       ]
     },
@@ -1311,6 +1324,18 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "11619",
+          "name": "Tình yêu nổi loạn",
+          "label": "S_Plus",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
     },
@@ -1593,6 +1618,18 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "1197",
+          "name": "Quái tặc không gian",
+          "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
     },
@@ -1729,6 +1766,18 @@
         {
           "id": "1215",
           "name": "Yêu nữ săn mồi",
+          "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "1216",
+          "name": "Chủ hôn",
           "label": "A",
           "changeAnim": false,
           "hasDeathEffect": false,
@@ -5774,6 +5823,18 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "17518",
+          "name": "Thần ẩm thực",
+          "label": "S_Plus",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
     },
@@ -6475,6 +6536,18 @@
           "id": "1917",
           "name": "Quang vinh",
           "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "1919",
+          "name": "Thụy mộc Thanh long",
+          "label": "S_Plus",
           "changeAnim": false,
           "hasDeathEffect": false,
           "isAwakeSkin": false,
@@ -7790,6 +7863,18 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "51014",
+          "name": "Lưu thủy Thần long",
+          "label": "SS",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
     },
@@ -7848,6 +7933,18 @@
         {
           "id": "5116",
           "name": "Chiến binh hải tộc",
+          "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "5119",
+          "name": "Gà mờ",
           "label": "A",
           "changeAnim": false,
           "hasDeathEffect": false,
@@ -8536,6 +8633,19 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "52012",
+          "name": "Lưu Ly Long Mẫu",
+          "label": "SSS_HH",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0,
+          "hasteName": "520_Veres_long_sprint_start"
         }
       ]
     },
@@ -8643,6 +8753,18 @@
           "id": "52111",
           "name": "Hisoka",
           "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "52112",
+          "name": "Hỏa diệm Thần long",
+          "label": "S_Plus",
           "changeAnim": false,
           "hasDeathEffect": false,
           "isAwakeSkin": false,
@@ -8912,6 +9034,30 @@
         {
           "id": "52411",
           "name": "Tử đinh hương",
+          "label": "S_Plus",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "52413",
+          "name": "S - Quang vinh",
+          "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "52412",
+          "name": "Vua trò chơi",
           "label": "S_Plus",
           "changeAnim": false,
           "hasDeathEffect": false,
@@ -9529,6 +9675,18 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "53111",
+          "name": "Hồ điệp",
+          "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
     },
@@ -9744,6 +9902,18 @@
           "id": "5346",
           "name": "Băng Sa công chúa",
           "label": "S_Plus",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "5347",
+          "name": "Lữ khách cao nguyên",
+          "label": "A",
           "changeAnim": false,
           "hasDeathEffect": false,
           "isAwakeSkin": false,
@@ -9985,6 +10155,18 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "5378",
+          "name": "Tình yêu nổi loạn",
+          "label": "S_Plus",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
     },
@@ -10152,6 +10334,18 @@
           "id": "5407",
           "name": "Kỳ Lân soái",
           "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        },
+        {
+          "id": "5408",
+          "name": "Vua về nhì",
+          "label": "S_Plus",
           "changeAnim": false,
           "hasDeathEffect": false,
           "isAwakeSkin": false,
@@ -10432,8 +10626,41 @@
           "componentLevel": 0,
           "levelSFXUnlock": 0,
           "levelVOXUnlock": 0
+        },
+        {
+          "id": "5485",
+          "name": "Kình thiên Long kỵ",
+          "label": "SS",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
         }
       ]
+    },
+    {
+      "id": "568",
+      "name": "Ming",
+      "skins": [
+        {
+          "id": "5682",
+          "name": "Bac A",
+          "label": "A",
+          "changeAnim": false,
+          "hasDeathEffect": false,
+          "isAwakeSkin": false,
+          "isComponentSkin": false,
+          "componentLevel": 0,
+          "levelSFXUnlock": 0,
+          "levelVOXUnlock": 0
+        }
+      ]
+    },
+    {
+      "id": "567"
     }
   ]
 }
